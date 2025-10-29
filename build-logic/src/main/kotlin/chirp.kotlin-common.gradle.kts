@@ -2,7 +2,6 @@ import gradle.kotlin.dsl.accessors._6c35dc5b101437ffcd4f7834c90ef9dd.dependencyM
 import org.jetbrains.kotlin.gradle.dsl.JvmTarget
 import org.jetbrains.kotlin.gradle.dsl.KotlinJvmProjectExtension
 import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
-import kotlin.collections.addAll
 
 plugins {
     kotlin("jvm")
