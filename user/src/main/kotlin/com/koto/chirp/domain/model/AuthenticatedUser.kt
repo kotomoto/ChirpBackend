@@ -1,4 +1,4 @@
-package com.koto.user.domain.model
+package com.koto.chirp.domain.model
 
 data class AuthenticatedUser(
     val user: User,

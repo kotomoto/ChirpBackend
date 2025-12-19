@@ -1,6 +1,6 @@
-package com.koto.user.infra.database.entities
+package com.koto.chirp.infra.database.entities
 
-import com.koto.user.domain.model.UserId
+import com.koto.chirp.domain.model.UserId
 import jakarta.persistence.Column
 import jakarta.persistence.Entity
 import jakarta.persistence.GeneratedValue
