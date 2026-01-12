@@ -17,6 +17,7 @@ dependencies {
     implementation(projects.common)
     implementation(libs.jakarta.persistence)
     implementation(libs.spring.boot.starter.data.jpa)
+    implementation(libs.spring.boot.starter.security)
 
     runtimeOnly(libs.postgresql)
 
